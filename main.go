@@ -88,7 +88,7 @@ func startTraining(charName, charClass string) string {
 		}
 	}
 
-	return "тренировка окончена"
+	return "тренировка окончена!"
 }
 
 // обратите внимание на имя функции и имена переменных
